@@ -159,7 +159,7 @@ A Postman collection (`book-review-app.postman_collection.json`) is included in 
 
 Below is the ER diagram for the Book Review API:
 
-![ER Diagram](./er-diagram.png)
+![ER Diagram](https://raw.githubusercontent.com/sarthaks225/book-review-app/main/ER-diagram.png)
 
 **Entities:**
 
